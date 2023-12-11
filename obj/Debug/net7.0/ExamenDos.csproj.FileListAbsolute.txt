@@ -1,0 +1,15 @@
+C:\Users\cd14\source\repos\ExamenDos\bin\Debug\net7.0\ExamenDos.exe
+C:\Users\cd14\source\repos\ExamenDos\bin\Debug\net7.0\ExamenDos.deps.json
+C:\Users\cd14\source\repos\ExamenDos\bin\Debug\net7.0\ExamenDos.runtimeconfig.json
+C:\Users\cd14\source\repos\ExamenDos\bin\Debug\net7.0\ExamenDos.dll
+C:\Users\cd14\source\repos\ExamenDos\bin\Debug\net7.0\ExamenDos.pdb
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.csproj.AssemblyReference.cache
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.AssemblyInfoInputs.cache
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.AssemblyInfo.cs
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.csproj.CoreCompileInputs.cache
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.dll
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\refint\ExamenDos.dll
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.pdb
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ExamenDos.genruntimeconfig.cache
+C:\Users\cd14\source\repos\ExamenDos\obj\Debug\net7.0\ref\ExamenDos.dll
